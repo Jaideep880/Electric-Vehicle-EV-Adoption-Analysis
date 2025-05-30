@@ -5,9 +5,7 @@
 
 Here’s a preview of the **EV Adoption Analysis Dashboard** built using Power BI:
 
-![EV Dashboard Preview](./https://github.com/Jaideep880/Electric-Vehicle-EV-Adoption-Analysis/blob/main/Dashboard.PNG)
-
-
+![EV Dashboard](https://github.com/Jaideep880/Electric-Vehicle-EV-Adoption-Analysis/blob/main/Dashboard.PNG?raw=true)
 
 This Power BI dashboard provides an in-depth analysis of **electric vehicle adoption trends** using a real-world dataset sourced from [Kaggle](https://www.kaggle.com/). It offers interactive insights into **EV types**, **regional adoption patterns**, **model and brand performance**, and the **impact of Clean Alternative Fuel Vehicle (CAFV) eligibility** on adoption.
 
