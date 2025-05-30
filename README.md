@@ -3,7 +3,7 @@
 
 ## 📸 Screenshots
 
-*(Add dashboard screenshots here if possible — ex: EV trends chart, regional map, model comparison bar chart)*
+https://github.com/Jaideep880/Electric-Vehicle-EV-Adoption-Analysis/blob/main/Dashboard.PNG
 
 ---
 
