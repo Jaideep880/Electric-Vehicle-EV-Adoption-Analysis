@@ -5,7 +5,7 @@
 
 Here’s a preview of the **EV Adoption Analysis Dashboard** built using Power BI:
 
-![EV Dashboard Preview](./Dashboard.png)
+![EV Dashboard Preview](./https://github.com/Jaideep880/Electric-Vehicle-EV-Adoption-Analysis/blob/main/Dashboard.PNG)
 
 
 
